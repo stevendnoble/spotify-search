@@ -1,1 +1,17 @@
 /* put custom styles in this file */
+body {
+	background-color: lightyellow;
+}
+
+h1 {
+	color: brown;
+}
+
+img {
+	height: 100px;
+	max-width: 100px;
+}
+
+p.artist {
+	font-weight: bold;
+}
